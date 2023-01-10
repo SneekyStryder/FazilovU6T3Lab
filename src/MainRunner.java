@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class MainRunner {
+public class MainRunner {
+    public static void main(String[] args) {
+        Person p1 = new Person("Adam", 12);
+        Person p2 = new Person("Barb", 15);
+        Person p3 = new Person("Cathy", 14);
+        Person p4 = new Person("Fred", 16);
+
+
+    }
 }
